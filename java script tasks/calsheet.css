@@ -1,0 +1,45 @@
+body {
+    background-image: url(philip-oroni-v0PnusRa6aM-unsplash.jpg);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    color: aqua;
+    margin-bottom: 20px;
+
+  }
+  
+  #display {
+    width: 240px;
+    font-size: 20px;
+    text-align: right;
+    padding: 5px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #ff9100f3;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+  }
+  
+  button:hover {
+    background-color: #f3ff07;
+  }
+  
+  button:active {
+    background-color: #41f38b;
+  }
+  footer{
+    color: white;
+  }
+  footer a{
+    color: #48ff48;
+  }
